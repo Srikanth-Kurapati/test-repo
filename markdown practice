@@ -1,0 +1,17 @@
+<details>
+
+   - indent one
+   - indent two
+</details>
+
+India [^1] is a largest democratic country[^2]
+
+[^1]:[India](https://en.wikipedia.org/wiki/India)
+[^2]:[Country](https://en.wikipedia.org/wiki/Country)
+
+
+| name | role | company |
+|------|------|----------|
+| Srikanth |DevOps Engineer | TCS |
+|Prasad | CKA | TS |
+
