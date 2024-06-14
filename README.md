@@ -1,4 +1,4 @@
-you can [learn] by using (https://linkedin.com)
+you can learn by using [LinkedIn](https://linkedin.com) or [Udemy](www.udemy.com)
 
 ```
 let x = 5;
